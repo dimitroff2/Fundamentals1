@@ -1,0 +1,18 @@
+
+body{
+	background-color: bisque;
+	color: darkred;
+	font-family:Arial, Helvetica, sans-serif
+}
+
+.zodiaccontainer{
+
+   
+
+}
+
+#zodiacsection{
+	display: flex;
+    justify-content: right;
+    border: 5px solid ;
+}
